@@ -1,0 +1,18 @@
+Copyright © [2025] [Mengyu Li at CNR ISMAR-Rome]
+
+All rights reserved.
+
+This code and associated documentation are made available for academic and research purposes only.
+You are free to use, modify, and distribute this work within non-commercial scientific or educational contexts, provided that:
+
+Proper attribution is given to the original author(s) in any derivative works, publications, or presentations.
+
+Any redistributed or modified versions must include this license and a citation to the associated publication (if applicable).
+
+Commercial use, including any form of redistribution, sale, or incorporation into proprietary software, is strictly prohibited without explicit written permission from the author(s).
+
+This software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
+If you use this code in a publication, please cite:
+
+[Mengyu Li], “[Biological production of dissolved organic matter enhances carbon sequestration in the North Atlantic Subtropical Gyre],” [in prep], [2025].
