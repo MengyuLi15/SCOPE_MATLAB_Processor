@@ -1,6 +1,6 @@
 # 🌊 SCOPE-MATLAB Processor
 
-**SCOPE (Surface–Carbon–Optics–Profiling Environment)** MATLAB Processor  
+**SCOPE (Satellite-based observations of Carbon in the Ocean: Pools, Fluxes and Exchanges)** MATLAB Processor  
 A collection of MATLAB modules developed for processing, quality-controlling, and analyzing **BGC-Argo biogeochemical float data**, focusing on the coupling between optical, biological, and carbon-cycle parameters in the open ocean.
 
 ---
