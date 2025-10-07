@@ -44,12 +44,9 @@ Commercial use is prohibited without written permission.
 ## ✉️ Contact
 
 **Mengyu Li**  
-
-Postdoctoral Researcher
-Institute of Marine Sciences (ISMAR)
-National Research Council (CNR),
-Via Fosso del Cavaliere 100, Rome, 00133, Italy
-
+Postdoctoral Researcher  
+Institute of Marine Sciences (ISMAR), National Research Council (CNR)  
+Via Fosso del Cavaliere 100, Rome, 00133, Italy  
 📧 [mengyuli@cnr.it]  
 🌍 [https://www.ismar.cnr.it](https://www.ismar.cnr.it)
 
