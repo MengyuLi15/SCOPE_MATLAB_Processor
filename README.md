@@ -29,7 +29,7 @@ Each module can be executed independently or integrated into a full workflow.
 
 If you use this processor or its derived results, please cite:
 
-> Mengyu et al. (2025). *Biological production of dissolved organic matter enhances carbon sequestration in the North Atlantic Subtropical Gyre.*
+> Li et al. (2025). *Biological production of dissolved organic matter enhances carbon sequestration in the North Atlantic Subtropical Gyre.*
 
 ---
 
