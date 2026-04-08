@@ -1,4 +1,4 @@
-# 🌊 SCOPE-MATLAB Processor
+# 🌊 SCOPE-MATLAB BGC-Argo Processor
 
 **SCOPE (Satellite-based observations of Carbon in the Ocean: Pools, Fluxes and Exchanges)** MATLAB Processor  
 A collection of MATLAB modules developed for processing, quality-controlling, and analyzing **BGC-Argo biogeochemical float data**, focusing on the coupling between optical, biological, and carbon-cycle parameters in the open ocean.
@@ -29,7 +29,7 @@ Each module can be executed independently or integrated into a full workflow.
 
 If you use this processor or its derived results, please cite:
 
-> Li et al. (2025). *Biological production of dissolved organic matter enhances carbon sequestration in the North Atlantic Subtropical Gyre.*
+> Li M. (2025). *SCOPE-MATLAB BGC-Argo Processor*. GitHub. https://github.com/MengyuLi15/SCOPE_MATLAB_Processor
 
 ---
 
