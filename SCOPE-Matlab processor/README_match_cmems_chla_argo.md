@@ -147,13 +147,13 @@ CMEMS_CHL_unc_pct_3x3
 
 Computed using:
 
-[
+$$
 \sigma_i = C_i \times \frac{U_i}{100}
-]
+$$
 
-[
-\sigma_{mean} = \frac{\sqrt{\sum \sigma_i^2}}{N}
-]
+$$
+\sigma_{\mathrm{mean}} = \frac{\sqrt{\sum_i \sigma_i^2}}{N}
+$$
 
 ---
 
@@ -175,9 +175,9 @@ CMEMS_CHL_unc_total_abs_3x3
 CMEMS_CHL_unc_total_pct_3x3
 ```
 
-[
-\sigma_{total} = \sqrt{\sigma_{mean}^2 + \left(\frac{SD}{\sqrt{N}}\right)^2}
-]
+$$
+\sigma_{\mathrm{total}} = \sqrt{\sigma_{\mathrm{mean}}^2 + \left(\frac{SD}{\sqrt{N}}\right)^2}
+$$
 
 Includes:
 
